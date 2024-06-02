@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/nexcare.git
+git clone https://github.com/prabhatrai11/nexcare.git
 cd nexcare
 Create a virtual environment and activate it:
 
