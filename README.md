@@ -5,8 +5,7 @@
 ## Description
 Nexcare is a comprehensive application designed to assist with healthcare needs, providing users with easy access to essential medical information and services. Whether you need guidance on medications, appointment scheduling, or emergency assistance, Nexcare has you covered. 🌟  
 
-## Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+
 
 ## Installation
 To get started with Nexcare, follow these simple steps:
